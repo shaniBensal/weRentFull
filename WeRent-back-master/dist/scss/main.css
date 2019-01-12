@@ -1,0 +1,108 @@
+* {
+  box-sizing: border-box;
+}
+   @font-face {
+    font-family: 'varela_Round';
+    src: url('../../src/assets/fonts/varela_Round/VarelaRound-Regular.ttf');
+    font-style: normal;
+  }
+
+  /* @font-face {
+    font-family: 'Roboto Slab-bold';
+    src: url('../../src/assets/fonts/roboto/RobotoSlab-Bold.ttf');
+    font-style: normal;
+  } */ 
+
+  /* @font-face {
+    font-family: 'Roboto-Bold', sans-serif;
+    src: url('../../src/assets/fonts/roboto/Roboto-Bold.ttf');
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Roboto', sans-serif;
+    src: url('../../src/assets/fonts/roboto/Roboto-Light.ttf');
+    font-style: normal;
+  } */
+
+    .v-dialog.date-picker{
+    width: min-content;
+  }
+
+  /* .bold-font{
+    font-family: 'Roboto Slab-bold', serif;
+    } */
+    
+    button{
+      cursor: pointer;
+    }
+
+    .bold-font{
+      font-family: 'Roboto-Bold', sans-serif;
+      } 
+
+      h1{
+        text-transform: capitalize;
+      }
+    a{
+      cursor: pointer;
+    }
+
+
+    .primary--text input , .primary--text textarea{
+      caret-color: black !important;
+    }
+    
+    /* .v-btn{
+      min-width: 200px;
+    } */
+
+    .flex-column{
+      flex-direction: column;
+    }
+
+    .clean-list {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+  }
+  .v-btn:not(.v-btn--depressed):not(.v-btn--flat){
+    box-shadow: inset 0 0 0 0 rgba(0,0,0,0), 0 0px 0px 0 rgba(0,0,0,0), 0 0px 0px 0 rgba(0,0,0,0) !important;
+  }
+
+      .align-center {
+        align-items: center;
+    }
+
+    .align-flex-start {
+      align-items: flex-start;
+  }
+
+   /* the border-bottom of search input */
+
+   .search-input-text .v-input__slot:before{
+    display: none !important;
+  }
+
+   .search-input-text .v-input__slot:after{
+    border-color: #1da088 !important;
+  }
+
+  .search-item .v-input__slot::after{
+    border-color: #1da088 !important;
+  }
+/* 
+  date-picker text (august 2018) */
+  .date-picker .accent--text{
+    color:#1da088 !important;
+  }
+
+
+
+
+  .v-menu__activator *{
+    color: black;
+  }
+    
+
+  

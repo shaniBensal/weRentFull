@@ -1,0 +1,154 @@
+/* 1 */
+{
+    "_id" : ObjectId("5b5ae4606896b0b4bcd5f8a1"),
+    "name" : "ben",
+    "email" : "ben@gmail.com",
+    "address" : "hanita 7 ,Rishon lezion",
+    "image" : "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "rentedItems" : [],
+    "favoriteItems" : [],
+    "password" : "111",
+    "newRent" : {
+        "isNew" : false,
+        "itemId" : []
+    }
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5b5ae4606896b0b4bcd5f8a5"),
+    "name" : "mike",
+    "email" : "mike@gmail.com",
+    "address" : "dizingoff 127 , tel aviv",
+    "image" : "https://images.pexels.com/photos/846741/pexels-photo-846741.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "rentedItems" : [],
+    "favoriteItems" : [ 
+        ObjectId("5b5ef960948d7a70835a9cf1"), 
+        ObjectId("5b5ef960948d7a70835a9cef")
+    ],
+    "password" : "111",
+    "newRent" : {
+        "isNew" : false,
+        "itemId" : []
+    }
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5b5ae4606896b0b4bcd5f8a2"),
+    "name" : "tomer berman",
+    "email" : "shanibensal@gmail.com",
+    "address" : "pinkas 69, tel aviv",
+    "image" : "https://i.ytimg.com/vi/KNHP8NRbCmI/hqdefault.jpg",
+    "rentedItems" : [],
+    "favoriteItems" : [],
+    "password" : "1234",
+    "newRent" : {
+        "isNew" : false,
+        "itemId" : []
+    }
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("5b5ae4606896b0b4bcd5f8a0"),
+    "name" : "rachel",
+    "email" : "rachel@gmail.com",
+    "address" : "dizingoff 220, tel aviv",
+    "image" : "https://images.pexels.com/photos/712513/pexels-photo-712513.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "rentedItems" : [],
+    "favoriteItems" : [ 
+        "5b58966eeaa1a9fc0b0a7ca3", 
+        "5b58966eeaa1a9fc0b0a7ca4", 
+        ObjectId("5b66da8ae94ce363c473ceb6")
+    ],
+    "password" : "1234",
+    "newRent" : {
+        "isNew" : false,
+        "itemId" : []
+    }
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("5b5ae4606896b0b4bcd5f8a4"),
+    "name" : "tom",
+    "email" : "tom@gmail.com",
+    "address" : "ibn gabirol 4, tel aviv ",
+    "image" : "https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "rentedItems" : [],
+    "favoriteItems" : [ 
+        "5b5ef960948d7a70835a9cf2", 
+        "5b58966eeaa1a9fc0b0a7ca3", 
+        "5b5ef960948d7a70835a9cef", 
+        ObjectId("5b66dc83e94ce363c473ceb9")
+    ],
+    "password" : "111",
+    "newRent" : {
+        "isNew" : false,
+        "itemId" : []
+    }
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("5b6872a37802160014fcbbae"),
+    "name" : "tomerb",
+    "password" : "1234",
+    "email" : "tm@gmail.com",
+    "address" : "ben yehuda 112 tel aviv",
+    "image" : "http://static-29.sinclairstoryline.com/resources/media/2d9080f1-46ec-47b0-3874-d5190c1b02e7-2d9080f146ec47b03874d5190c1b02e7rendition_1_scottthuman5x7bluegradient.jpg?1519078303490",
+    "rentedItems" : [],
+    "favoriteItems" : [ 
+        ObjectId("5b5ef960948d7a70835a9cf3"), 
+        ObjectId("5b5ef960948d7a70835a9cf4")
+    ]
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("5b6972b1f9428375d70229a6"),
+    "name" : "bar",
+    "password" : "111",
+    "email" : "bar@gmail.com",
+    "address" : "bialik 87, ramat gan",
+    "image" : "https://www.slavorum.org/wp-content/uploads/2015/08/ukrainians-celebrating-independence-day-kyiv-1.jpg",
+    "rentedItems" : [],
+    "favoriteItems" : []
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("5b6ec8c5cbf28474ef2bc99b"),
+    "name" : "mia",
+    "password" : "111",
+    "email" : "mia@gmail.com",
+    "address" : "hashalom 80, tel aviv",
+    "image" : "https://images.pexels.com/photos/713312/pexels-photo-713312.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "rentedItems" : [],
+    "favoriteItems" : []
+}
+
+/* 9 */
+{
+    "_id" : ObjectId("5b7024e58f93887e20474b20"),
+    "name" : "rita",
+    "password" : "111",
+    "email" : "shshs@djdj@gmail.com",
+    "address" : "ha bonim 4",
+    "image" : "",
+    "rentedItems" : [],
+    "favoriteItems" : []
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("5b72974c3cba410014ca77e8"),
+    "name" : "kiki",
+    "password" : "111",
+    "email" : "shsh@djjd",
+    "address" : "kfar saba",
+    "image" : "",
+    "rentedItems" : [],
+    "favoriteItems" : []
+}

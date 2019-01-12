@@ -1,0 +1,1200 @@
+/* 1 */
+{
+    "_id" : ObjectId("5b5ef84b948d7a70835a9cee"),
+    "category" : [ 
+        "travel"
+    ],
+    "title" : "PS4",
+    "description" : "amazing new PS4 console",
+    "ranking" : {
+        "count" : 1,
+        "avg" : 4,
+        "totalRank" : 12
+    },
+    "price" : 25,
+    "dateCreated" : 1533633621160.0,
+    "keyWords" : [ 
+        "friends", 
+        "console", 
+        "play", 
+        "ps4"
+    ],
+    "ownerId" : "5b5ae4606896b0b4bcd5f8a0",
+    "occupiedDates" : [ 
+        "2018-08-08", 
+        "2018-07-13", 
+        "2018-07-27", 
+        "2018-08-25", 
+        null, 
+        "2018-08-16", 
+        "2018-08-17", 
+        "2018-08-15", 
+        "2018-08-19", 
+        "2018-08-20", 
+        "2018-08-18"
+    ],
+    "images" : [ 
+        "https://vgs.co.il/wp-content/uploads/2017/11/ps4-pro-1-tb-white.jpg"
+    ],
+    "condition" : "new"
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5b62aeb4606ded722bb67ad1"),
+    "category" : [ 
+        "kids"
+    ],
+    "title" : "Kids bicycle",
+    "description" : "8 types of card decks, for kids and adults",
+    "ranking" : {
+        "count" : 1,
+        "avg" : 4,
+        "totalRank" : 78
+    },
+    "price" : 20,
+    "dateCreated" : 1533633621160.0,
+    "keyWords" : [ 
+        "camping", 
+        "games"
+    ],
+    "ownerId" : "5b5ae4606896b0b4bcd5f8a0",
+    "bookings" : [],
+    "occupiedDates" : [ 
+        "2018-08-17", 
+        "2018-08-15", 
+        "2018-08-16"
+    ],
+    "images" : [ 
+        "https://i.ebayimg.com/images/g/9DwAAOSwrXdapeQg/s-l300.jpg"
+    ],
+    "condition" : "new"
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5b6187ab606ded722bb67ac6"),
+    "category" : [ 
+        "kitchen", 
+        "travel"
+    ],
+    "title" : "Charcoal Grill",
+    "description" : "The Outdoor Gourmet™ 14 Charcoal Grill features a 4.4 lb. lightweight design, making it an ideal choice for portable grilling. An adjustable vent offers enhanced temperature control over the 151 sq. in. grilling area. Steel construction ensures durability, and heat-resistant handles help protect your hands",
+    "ranking" : {
+        "count" : 1,
+        "avg" : 4,
+        "totalRank" : 15
+    },
+    "price" : 15,
+    "dateCreated" : 1533633621160.0,
+    "keyWords" : [ 
+        "kitchen", 
+        "BBQ", 
+        "meat", 
+        "mangal"
+    ],
+    "ownerId" : "5b5ae4606896b0b4bcd5f8a0",
+    "occupiedDates" : [ 
+        "2018-08-15", 
+        "2018-08-16"
+    ],
+    "images" : [ 
+        "https://www.outbackdirect.co.uk/media/catalog/product/cache/2/image/9df78eab33525d08d6e5fb8d27136e95/3/7/370579-2.jpg", 
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV4yICT5_LkBvKlHUa0HsWjgsFO9oqLaQHAKCZiZeMi81H3vgk"
+    ],
+    "condition" : "new"
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("5b5ef960948d7a70835a9cf0"),
+    "category" : [ 
+        "travel"
+    ],
+    "title" : "Robotic pool cleaner",
+    "description" : "cleaing huge pool up to 12,000 liters",
+    "ranking" : {
+        "count" : 23,
+        "avg" : 4,
+        "totalRank" : 18
+    },
+    "price" : 25,
+    "dateCreated" : 1533633621160.0,
+    "keyWords" : [ 
+        "trip", 
+        "camping", 
+        "vacation", 
+        "big"
+    ],
+    "ownerId" : "5b5ae4606896b0b4bcd5f8a0",
+    "occupiedDates" : [ 
+        "2018-08-23"
+    ],
+    "images" : [ 
+        "https://cdn.shopify.com/s/files/1/0942/3084/products/robot-pool-cleaners-water-tech-pool-blaster-blue-pearl-robotic-pool-cleaner-2_large.jpg?v=1510556129"
+    ],
+    "condition" : "new"
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("5b5ef960948d7a70835a9cf1"),
+    "category" : [ 
+        "hardware"
+    ],
+    "title" : "Plastic chairs",
+    "description" : "This minimalist plastic chair made of polypropylene with comfortable chair back captivates with its classic shape. It is lightweight, durable and virtually limitlessly stackable",
+    "ranking" : {
+        "count" : 1,
+        "avg" : 4,
+        "totalRank" : 16
+    },
+    "price" : 12,
+    "dateCreated" : 1533633621160.0,
+    "keyWords" : [ 
+        "cleaning", 
+        "hardware", 
+        "small"
+    ],
+    "ownerId" : "5b5ae4606896b0b4bcd5f8a0",
+    "occupiedDates" : [],
+    "images" : [ 
+        "http://mbnanot.com/wp-content/uploads/2017/10/outstanding-hot-sale-living-room-chairs-plastic-folding-chair-item-no-in-folding-chairs-sale-modern.jpg"
+    ],
+    "condition" : "new"
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("5b5ef960948d7a70835a9cf4"),
+    "category" : [ 
+        "events"
+    ],
+    "title" : "Camera",
+    "description" : "High quality 4K semi-proffessional camera",
+    "ranking" : {
+        "count" : 1,
+        "avg" : 4,
+        "totalRank" : 43
+    },
+    "price" : 30,
+    "dateCreated" : 1533633621160.0,
+    "keyWords" : [ 
+        "trip", 
+        "hardware", 
+        "bag", 
+        "proffessional"
+    ],
+    "ownerId" : "5b5ae4606896b0b4bcd5f8a0",
+    "occupiedDates" : [],
+    "images" : [ 
+        "https://cdn-images-1.medium.com/max/1600/1*icNB9OBUqYfkgGldxBPwRg.jpeg"
+    ],
+    "condition" : "almost new"
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("5b5f1587cbf28474efda9857"),
+    "category" : [ 
+        "hardware"
+    ],
+    "title" : "Drilling machine",
+    "description" : "Bosch GBH2-26DRE 26mm SDS Rotary Hammer Impact stop for drilling in wood and steel. Ball grommet for preventing cable breaks.",
+    "ranking" : {
+        "count" : 25.0,
+        "avg" : 3.5,
+        "totalRank" : 52
+    },
+    "price" : 12.0,
+    "dateCreated" : 1533633621160.0,
+    "keyWords" : [ 
+        "drill", 
+        "home", 
+        "hardware", 
+        "small"
+    ],
+    "ownerId" : "5b5ae4606896b0b4bcd5f8a4",
+    "occupiedDates" : [],
+    "images" : [ 
+        "https://rukminim1.flixcart.com/image/832/832/hammer-drill/u/k/q/gbh-2-26-dre-bosch-original-imaehb8n8rkzfxzq.jpeg?q=70"
+    ],
+    "condition" : "used"
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("5b5f3e3ecbf28474efe843a8"),
+    "category" : [ 
+        "Travel"
+    ],
+    "title" : "GoPro",
+    "description" : "Frame the perfect shot and check out your photos and videos on the 2-inch touch screen.",
+    "ranking" : {
+        "count" : 19,
+        "avg" : 0.315789473684211,
+        "totalRank" : 23
+    },
+    "price" : 10,
+    "dateCreated" : 1533633621160.0,
+    "keyWords" : [ 
+        "drill", 
+        "home", 
+        "hardware", 
+        "small"
+    ],
+    "ownerId" : "5b5ae4606896b0b4bcd5f8a4",
+    "occupiedDates" : [],
+    "images" : [ 
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA0EcLtsVD1yf7MukPCgIWU1snMCXh_Bk5mP7zLmJdbHinq67P4A"
+    ],
+    "condition" : "used"
+}
+
+/* 9 */
+{
+    "_id" : ObjectId("5b58966eeaa1a9fc0b0a7ca1"),
+    "category" : [ 
+        "travel"
+    ],
+    "title" : "BackPack",
+    "description" : "grate back pack 80L Osprey",
+    "ranking" : {
+        "count" : 10,
+        "avg" : 0.327282297178131,
+        "totalRank" : 79
+    },
+    "price" : 20,
+    "dateCreated" : 1533633621160.0,
+    "keyWords" : [ 
+        "trip", 
+        "camping", 
+        "bag", 
+        "big"
+    ],
+    "ownerId" : "5b5ae4606896b0b4bcd5f8a4",
+    "occupiedDates" : [ 
+        "2018-08-16"
+    ],
+    "images" : [ 
+        "https://www.travelfashiongirl.com/wp-content/uploads/2014/02/How-to-Clean-Your-Travel-Backpack.jpg"
+    ],
+    "condition" : "new"
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("5b62aeb4606ded722bb67ac9"),
+    "category" : [ 
+        "kitchen"
+    ],
+    "title" : "Coffee machine",
+    "description" : "Coffee machine of kitchenAid, grate solution for events.",
+    "ranking" : {
+        "count" : 1.0,
+        "avg" : 4.0,
+        "totalRank" : 83
+    },
+    "price" : 10.0,
+    "dateCreated" : 1533633621160.0,
+    "keyWords" : [ 
+        "bike", 
+        "sport", 
+        "fun", 
+        "transportation"
+    ],
+    "ownerId" : "5b5ae4606896b0b4bcd5f8a4",
+    "occupiedDates" : [],
+    "images" : [ 
+        "https://image.coolblue.nl/422x390/products/347504"
+    ],
+    "condition" : "used"
+}
+
+/* 11 */
+{
+    "_id" : ObjectId("5b62aeb4606ded722bb67acb"),
+    "id" : "A7r4hfw",
+    "category" : [ 
+        "kitchen"
+    ],
+    "title" : "Juice machine",
+    "description" : "This juicer fits whole foods, and makes fresh, healthy juice in seconds. Big Mouth Juicers have been rated Best Buy. This juicer is easy to assemble and store.",
+    "ranking" : {
+        "count" : 2.0,
+        "avg" : 3.5,
+        "totalRank" : 12
+    },
+    "price" : "14",
+    "dateCreated" : 1533633621160.0,
+    "keyWords" : [ 
+        "trip", 
+        "fun", 
+        "family", 
+        "camping", 
+        "summer", 
+        "big"
+    ],
+    "ownerId" : "5b5ae4606896b0b4bcd5f8a4",
+    "bookings" : [],
+    "occupiedDates" : [],
+    "images" : [ 
+        "https://images-na.ssl-images-amazon.com/images/I/71bgIfLBWgL._SL1500_.jpg"
+    ],
+    "condition" : "new"
+}
+
+/* 12 */
+{
+    "_id" : ObjectId("5b62aeb4606ded722bb67acc"),
+    "id" : "K",
+    "category" : [ 
+        "kitchen"
+    ],
+    "title" : "Ice cream maker",
+    "description" : "Grate activity for kids! Unit makes 4-quarts of delicious ice cream, frozen yogurt or gelato. Easy-to-clean plastic bucket. See-thru lids for easy viewing and freezer storage. Convenient carrying handle Powerful electric motor does all the churning - no manual effort!",
+    "ranking" : {
+        "count" : 1.0,
+        "avg" : 4.0,
+        "totalRank" : 12
+    },
+    "price" : 25.0,
+    "dateCreated" : 1533633621160.0,
+    "keyWords" : [ 
+        "trip", 
+        "camping", 
+        "kitchen", 
+        "fast"
+    ],
+    "ownerId" : "5b5ae4606896b0b4bcd5f8a4",
+    "bookings" : [],
+    "occupiedDates" : [],
+    "images" : [ 
+        "https://cdn.shopify.com/s/files/1/1702/4009/products/ice-cream-machine-fully-automatic-for-home-10611178_1024x1024.jpg?v=1515535526"
+    ],
+    "condition" : "new"
+}
+
+/* 13 */
+{
+    "_id" : ObjectId("5b62aeb4606ded722bb67ace"),
+    "id" : "A",
+    "category" : [ 
+        "kids"
+    ],
+    "title" : "Tablet for kids",
+    "description" : "Grate for summer vacation. Six different ways to play! Teaches letters, phonics, numbers 1-10 and typing.Bilingual learning too – teaches counting to 10 in both English & Spanish! 20 different mazes.Music, animations and color-changing screen keep kids entertained",
+    "ranking" : {
+        "count" : 23,
+        "avg" : 4,
+        "totalRank" : 14
+    },
+    "price" : 50,
+    "dateCreated" : 1533633621160.0,
+    "keyWords" : [ 
+        "trip", 
+        "camping", 
+        "vacation", 
+        "big"
+    ],
+    "ownerId" : "5b5ae4606896b0b4bcd5f8a5",
+    "bookings" : [],
+    "occupiedDates" : [ 
+        "2018-08-15"
+    ],
+    "images" : [ 
+        "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5836/5836201_sd.jpg"
+    ],
+    "condition" : "new"
+}
+
+/* 14 */
+{
+    "_id" : ObjectId("5b62aeb4606ded722bb67acf"),
+    "title" : "Baby stroller for twins",
+    "description" : "For newborn and infant twins, there’s your basic double frame stroller, which is used solely to cart around babes in their car seats. Next are your full-featured double strollers, which can be used from infancy well into toddlerhood. Last are the double umbrella strollers, which are lightweight(ish) and indispensable for travel with your 6+ month old twinnies",
+    "ranking" : {
+        "count" : 30,
+        "avg" : 4,
+        "totalRank" : 120
+    },
+    "price" : 32,
+    "dateCreated" : 1533633621160.0,
+    "keyWords" : [ 
+        "cleaning", 
+        "hardware", 
+        "small"
+    ],
+    "ownerId" : "5b5ae4606896b0b4bcd5f8a5",
+    "bookings" : [],
+    "occupiedDates" : [],
+    "images" : [ 
+        "https://sgfm.elcorteingles.es/SGFM/dctm/MEDIA03/201710/27/001053104F7438____1__640x640.jpg"
+    ],
+    "condition" : "used",
+    "category" : [ 
+        "kids"
+    ]
+}
+
+/* 15 */
+{
+    "_id" : ObjectId("5b62aeb4606ded722bb67ad3"),
+    "id" : "A",
+    "category" : [ 
+        "kids"
+    ],
+    "title" : "laser guns toy",
+    "description" : "FUN FOR THE WHOLE FAMILY ? Tactile vibrations and lifelike shooting sounds make for deeply immersive gameplay, guaranteed to turn kids and adults away from their screens! Have a blast and create cherished memories on holidays, snow days, or birthday parties, with a fun family laser tag tournament! It's the PERFECT GIFT IDEA, sure to delight kids of all ages!",
+    "ranking" : {
+        "count" : 7,
+        "avg" : 4,
+        "totalRank" : 28
+    },
+    "price" : 6,
+    "dateCreated" : 1533633621160.0,
+    "keyWords" : [ 
+        "trip", 
+        "camping", 
+        "transportation", 
+        "big"
+    ],
+    "ownerId" : "5b5ae4606896b0b4bcd5f8a5",
+    "bookings" : [],
+    "occupiedDates" : [ 
+        "2018-08-15", 
+        "2018-08-16", 
+        null
+    ],
+    "images" : [ 
+        "https://www.lightbattle.eu/media/product/b22/laser-tag-gun-set-camo-green-gray-ean-8719979102081-aec.jpg"
+    ],
+    "condition" : "new"
+}
+
+/* 16 */
+{
+    "_id" : ObjectId("5b62aeb4606ded722bb67ad8"),
+    "category" : [ 
+        "events"
+    ],
+    "title" : "Speakers, high power",
+    "description" : "Pro Studio speakers for parties!",
+    "ranking" : {
+        "count" : 19,
+        "avg" : 0.368421052631579,
+        "totalRank" : 18
+    },
+    "price" : 10,
+    "dateCreated" : 1533633621160.0,
+    "keyWords" : [ 
+        "drill", 
+        "home", 
+        "hardware", 
+        "small"
+    ],
+    "ownerId" : "5b5ae4606896b0b4bcd5f8a5",
+    "bookings" : [],
+    "occupiedDates" : [ 
+        null
+    ],
+    "images" : [ 
+        "https://techlab.co.il/wp-content/uploads/2018/06/z207-bluetooth-computer-speakers-pdp.png"
+    ],
+    "condition" : "used"
+}
+
+/* 17 */
+{
+    "_id" : ObjectId("5b62aeb4606ded722bb67ad9"),
+    "category" : [ 
+        "hardware"
+    ],
+    "title" : "Projector",
+    "description" : "Multimedia HD WiFi Android Bluetooth 3D LED Home Cinema Projector 7000 Lumens CO",
+    "ranking" : {
+        "count" : 18.0,
+        "avg" : 5.0,
+        "totalRank" : 15
+    },
+    "price" : 10.0,
+    "dateCreated" : 1533633621160.0,
+    "keyWords" : [ 
+        "drill", 
+        "home", 
+        "hardware", 
+        "small"
+    ],
+    "ownerId" : "5b5ae4606896b0b4bcd5f8a5",
+    "bookings" : [],
+    "occupiedDates" : [],
+    "images" : [ 
+        "https://icdn2.digitaltrends.com/image/poster-for-5725103626001-720x720.jpg"
+    ],
+    "condition" : "used"
+}
+
+/* 18 */
+{
+    "_id" : ObjectId("5b62aeb4606ded722bb67ada"),
+    "category" : [ 
+        "travel"
+    ],
+    "title" : "generator 220V",
+    "description" : "Quiet exhaust system with spark arrestor is 60dB at 22 feet and is certified for use in any national park or forest. W000-Watts starting power and 900-Watts running power and 2 HP single cylinder 2-stroke engine and five hours run time at half load. Weighing less than 36 pounds, equipped with a carrying handle and stabilized with 4 rubber pads, this generator is built for portability",
+    "ranking" : {
+        "count" : 18.0,
+        "avg" : 5.0,
+        "totalRank" : 39
+    },
+    "price" : 10.0,
+    "dateCreated" : 1533633621160.0,
+    "keyWords" : [ 
+        "drill", 
+        "home", 
+        "hardware", 
+        "small"
+    ],
+    "ownerId" : "5b5ae4606896b0b4bcd5f8a1",
+    "bookings" : [],
+    "occupiedDates" : [],
+    "images" : [ 
+        "https://images-na.ssl-images-amazon.com/images/I/515rMK1zvgL.jpg"
+    ],
+    "condition" : "used"
+}
+
+/* 19 */
+{
+    "_id" : ObjectId("5b62aeb4606ded722bb67adb"),
+    "category" : [ 
+        "travel"
+    ],
+    "title" : "Tent, 8 people",
+    "description" : "Frame the perfect shot and check out your photos and videos on the 2-inch touch screen.",
+    "ranking" : {
+        "count" : 18.0,
+        "avg" : 5.0,
+        "totalRank" : 41
+    },
+    "price" : 10.0,
+    "dateCreated" : 1533633621160.0,
+    "keyWords" : [ 
+        "drill", 
+        "home", 
+        "hardware", 
+        "small"
+    ],
+    "ownerId" : "5b5ae4606896b0b4bcd5f8a1",
+    "bookings" : [],
+    "occupiedDates" : [],
+    "images" : [ 
+        "http://www.nrsrelief.com/wp-content/uploads/2016/07/DSC_9817-1-900x500.jpg"
+    ],
+    "condition" : "used"
+}
+
+/* 20 */
+{
+    "_id" : ObjectId("5b58966eeaa1a9fc0b0a7ca4"),
+    "id" : "D",
+    "category" : [ 
+        "kitchen"
+    ],
+    "title" : "Bread machine",
+    "description" : "Oster Expressbake Bread Machine",
+    "ranking" : {
+        "count" : 6.0,
+        "avg" : 1.00555555555556,
+        "totalRank" : 73
+    },
+    "price" : 10.0,
+    "dateCreated" : 1533633621160.0,
+    "keyWords" : [ 
+        "kitchen", 
+        "bread", 
+        "electric"
+    ],
+    "ownerId" : "5b5ae4606896b0b4bcd5f8a1",
+    "bookings" : [],
+    "occupiedDates" : [],
+    "images" : [ 
+        "https://images-na.ssl-images-amazon.com/images/I/814etiBMveL._SL1500_.jpg"
+    ],
+    "condition" : "new"
+}
+
+/* 21 */
+{
+    "_id" : ObjectId("5b62aeb4606ded722bb67ad0"),
+    "id" : "A",
+    "category" : [ 
+        "kids"
+    ],
+    "title" : "kids camera polaroid",
+    "description" : "white plastic chairs, great for outdoor",
+    "ranking" : {
+        "count" : 2.0,
+        "avg" : 3.0,
+        "totalRank" : 62
+    },
+    "price" : 12.0,
+    "dateCreated" : 1533633621160.0,
+    "keyWords" : [ 
+        "trip", 
+        "camping", 
+        "easy", 
+        "light"
+    ],
+    "ownerId" : "5b5ae4606896b0b4bcd5f8a1",
+    "bookings" : [],
+    "occupiedDates" : [],
+    "images" : [ 
+        "https://target.scene7.com/is/image/Target/14364915"
+    ],
+    "condition" : "new"
+}
+
+/* 22 */
+{
+    "_id" : ObjectId("5b58966eeaa1a9fc0b0a7ca5"),
+    "category" : [ 
+        "transportation"
+    ],
+    "title" : "City Bike",
+    "description" : "1 year old city-bike , comes with battery, to move easily around the city",
+    "ranking" : {
+        "count" : 1.0,
+        "avg" : 4.0,
+        "totalRank" : 30
+    },
+    "price" : 10.0,
+    "dateCreated" : 1533633621160.0,
+    "keyWords" : [ 
+        "bike", 
+        "sport", 
+        "fun", 
+        "transportation"
+    ],
+    "ownerId" : "5b5ae4606896b0b4bcd5f8a1",
+    "bookings" : [],
+    "occupiedDates" : [],
+    "images" : [ 
+        "https://images.pexels.com/photos/100582/pexels-photo-100582.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=350"
+    ],
+    "condition" : "used"
+}
+
+/* 23 */
+{
+    "_id" : ObjectId("5b62aeb4606ded722bb67ac8"),
+    "category" : [ 
+        "kitchen"
+    ],
+    "title" : "Food Chopper",
+    "description" : "Instantly slice, mince or blend by simply pulling the cord! Features 3 sharp stainless steel blade, 520 ml capacity, easy pull cord, and a large handle for fast and evenly chopping/mincing, An extra mixer blade for effectively mixing/blending ingredients. Perfect vegetable choppers manual for slicing and mixing vegetable/fruit salads, cutting various foods for baby, chopping nuts, herbs, pesto, hummus, salsa, guacamole, meat for meatloaf, ice",
+    "ranking" : {
+        "count" : 6.0,
+        "avg" : 3.0,
+        "totalRank" : 18
+    },
+    "price" : 7.0,
+    "dateCreated" : 1533633621160.0,
+    "keyWords" : [ 
+        "kitchen", 
+        "bread", 
+        "electric"
+    ],
+    "ownerId" : "5b5ae4606896b0b4bcd5f8a1",
+    "bookings" : [],
+    "occupiedDates" : [],
+    "images" : [ 
+        "https://images.ezvid.com/image/upload/fl_immutable_cache/e_trim/c_pad,f_auto,h_270,q_auto:eco/nljnisvkguba97xhbdcg"
+    ],
+    "condition" : "new"
+}
+
+/* 24 */
+{
+    "_id" : ObjectId("5b66da8ae94ce363c473ceb6"),
+    "category" : [ 
+        "kids"
+    ],
+    "title" : "Drone",
+    "description" : "Holy Stone GPS FPV RC Drone HS100 with Camera Live Video and GPS Return Home Quadcopter with Adjustable Wide-Angle 720P HD WIFI Camera- Follow Me, Altitude Hold, Intelligent Battery Long Control Range",
+    "ranking" : {
+        "count" : 15,
+        "avg" : 1.00555555555556,
+        "totalRank" : 29
+    },
+    "price" : 8,
+    "dateCreated" : 1533633621160.0,
+    "keyWords" : [ 
+        "fun", 
+        "drone", 
+        "kids"
+    ],
+    "ownerId" : "5b5ae4606896b0b4bcd5f8a1",
+    "bookings" : [],
+    "occupiedDates" : [ 
+        "2018-08-22"
+    ],
+    "images" : [ 
+        "https://images.pexels.com/photos/336232/pexels-photo-336232.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "condition" : "new"
+}
+
+/* 25 */
+{
+    "_id" : ObjectId("5b66dbabe94ce363c473ceb7"),
+    "category" : [ 
+        "kids"
+    ],
+    "title" : "Surfboard",
+    "description" : "urfboard with vibrant colors in reds and orange tones with black palm trees, white signs on the board.Made in the USA and measures H 15 x W 4. ¾ plus rope for hanging.",
+    "ranking" : {
+        "count" : 48,
+        "avg" : 0.0834490740740742,
+        "totalRank" : 27
+    },
+    "price" : 12,
+    "dateCreated" : 1533633621160.0,
+    "keyWords" : [ 
+        "beach", 
+        "surf", 
+        "board"
+    ],
+    "ownerId" : "5b5ae4606896b0b4bcd5f8a1",
+    "bookings" : [],
+    "occupiedDates" : [ 
+        null
+    ],
+    "images" : [ 
+        "https://venicebeachgiftshop.com/wp-content/uploads/2017/04/Beach-White-Signs-Mini-Surfboard.jpg"
+    ],
+    "condition" : "new"
+}
+
+/* 26 */
+{
+    "_id" : ObjectId("5b66dc83e94ce363c473ceb9"),
+    "category" : [ 
+        "music"
+    ],
+    "title" : "Guiter Yamaha",
+    "description" : "Extremely high-quality guitar from a respected manufacturer. The best on the market..",
+    "ranking" : {
+        "count" : 29.0,
+        "avg" : 4.9,
+        "totalRank" : 38
+    },
+    "price" : 18.0,
+    "dateCreated" : 1533633621160.0,
+    "keyWords" : [ 
+        "beach", 
+        "surf", 
+        "board"
+    ],
+    "ownerId" : "5b5ae4606896b0b4bcd5f8a1",
+    "bookings" : [],
+    "occupiedDates" : [],
+    "images" : [ 
+        "http://media.4rgos.it/s/Argos/3395932_R_SET?$Main768$&w=620&h=620"
+    ],
+    "condition" : "new"
+}
+
+/* 27 */
+{
+    "_id" : ObjectId("5b62aeb4606ded722bb67ad6"),
+    "category" : [ 
+        "transportation"
+    ],
+    "title" : "bicycle for two",
+    "description" : "With two seats on the frame, two sets of pedals and two handlebars, this unique bicycle allows 2 persons to ride at the same time",
+    "ranking" : {
+        "count" : 10.0,
+        "avg" : 0.327282297178131,
+        "totalRank" : 83
+    },
+    "price" : 20.0,
+    "dateCreated" : 1533633621160.0,
+    "keyWords" : [ 
+        "trip", 
+        "camping", 
+        "bag", 
+        "big"
+    ],
+    "ownerId" : "5b5ae4606896b0b4bcd5f8a5",
+    "bookings" : [],
+    "occupiedDates" : [],
+    "images" : [ 
+        "http://www.fancyacar.co.uk/userfiles/media/2013/12/13/bicycle-for-two.jpg"
+    ],
+    "condition" : "new"
+}
+
+/* 28 */
+{
+    "_id" : ObjectId("5b62aeb4606ded722bb67ad7"),
+    "category" : [ 
+        "events"
+    ],
+    "title" : "wedding dress",
+    "description" : "Very comfortable dress served me well. Wait for the next lucy girl!",
+    "ranking" : {
+        "count" : 18.0,
+        "avg" : 5.0,
+        "totalRank" : 10
+    },
+    "price" : 10.0,
+    "dateCreated" : 1533633621160.0,
+    "keyWords" : [ 
+        "drill", 
+        "home", 
+        "hardware", 
+        "small"
+    ],
+    "ownerId" : "5b5ae4606896b0b4bcd5f8a5",
+    "bookings" : [],
+    "occupiedDates" : [],
+    "images" : [ 
+        "https://cdn.essensedesigns.com/wp-content/uploads/2017/05/StellaYork_6461_01-1-530x845.jpg"
+    ],
+    "condition" : "used"
+}
+
+/* 29 */
+{
+    "_id" : ObjectId("5b6873ac7802160014fcbbb0"),
+    "category" : [ 
+        "home"
+    ],
+    "title" : "Vacuum Cleaner",
+    "description" : "Dyson vacuum cleaners are powerful and versatile, designed for cleaning the whole home. Choose from cordless vacuums, intelligent robot vacuums, upright vacuums and canister vacuums.",
+    "ranking" : {
+        "count" : 1,
+        "avg" : 4,
+        "totalRank" : 16
+    },
+    "price" : "9.5",
+    "dateCreated" : 1533633621160.0,
+    "keyWords" : [],
+    "ownerId" : "5b6872a37802160014fcbbae",
+    "occupiedDates" : [ 
+        "2018-08-27"
+    ],
+    "images" : [ 
+        "http://res.cloudinary.com/cloudsts/image/upload/v1533572004/xeyeol09s7rwfma4xn4b.jpg"
+    ]
+}
+
+/* 30 */
+{
+    "_id" : ObjectId("5b5ef960948d7a70835a9cf3"),
+    "category" : [ 
+        "kids"
+    ],
+    "title" : "TAKI card games",
+    "description" : "The original TAKI card game fit fo kids and adults",
+    "ranking" : {
+        "count" : 1,
+        "avg" : 4,
+        "totalRank" : 16
+    },
+    "price" : 20,
+    "dateCreated" : 1533633621160.0,
+    "keyWords" : [ 
+        "camping", 
+        "games"
+    ],
+    "ownerId" : "5b5ae4606896b0b4bcd5f8a0",
+    "occupiedDates" : [ 
+        "2018-08-16", 
+        "2018-08-20"
+    ],
+    "images" : [ 
+        "https://cf.geekdo-images.com/itemrep/img/TeUR5g0-M5y-CiEiPOv60AMyNA4=/fit-in/246x300/pic108129.jpg"
+    ],
+    "condition" : "new"
+}
+
+/* 31 */
+{
+    "_id" : ObjectId("5b62aeb4606ded722bb67ad4"),
+    "id" : "A",
+    "category" : [ 
+        "transportation"
+    ],
+    "title" : "Electric scooter",
+    "description" : "The minimal yet modern design of Mi Electric Scooter has been awarded the prestigious Red Dot Best of the Best Award, as well as the iF Design Award 2017. Mi Electric Scooter has a forward-thinking design that inspires and moves, just as it moves you ahead.",
+    "ranking" : {
+        "count" : 87.0,
+        "avg" : 3.5,
+        "totalRank" : 54
+    },
+    "price" : 19.0,
+    "dateCreated" : 1533633621160.0,
+    "keyWords" : [ 
+        "drill", 
+        "home", 
+        "hardware", 
+        "small"
+    ],
+    "ownerId" : "5b5ae4606896b0b4bcd5f8a5",
+    "bookings" : [],
+    "occupiedDates" : [],
+    "images" : [ 
+        "https://c1.staticflickr.com/3/2835/9096305034_0458a99033_b.jpg", 
+        "https://www.funbikes.co.uk/upload/temp/3a7ef010-f1b6-4b3b-ad1c-7975cd54adab_pad_600x600.jpg", 
+        "https://www.funbikes.co.uk/upload/temp/faab7c9e-46e5-4fca-b5fe-9dc541c3eaae_pad_600x600.jpg"
+    ],
+    "condition" : "used",
+    "reviews" : [ 
+        {
+            "id" : "2083031269",
+            "userId" : "5b6872a37802160014fcbbae",
+            "userName" : "tomer",
+            "userImg" : "http://static-29.sinclairstoryline.com/resources/media/2d9080f1-46ec-47b0-3874-d5190c1b02e7-2d9080f146ec47b03874d5190c1b02e7rendition_1_scottthuman5x7bluegradient.jpg?1519078303490",
+            "content" : "great scooter, lightweight and fast",
+            "rank" : 5,
+            "dateCreated" : "1531478675"
+        }, 
+        {
+            "id" : "8637326834",
+            "userId" : "5b6972b1f9428375d70229a6",
+            "userName" : "bar",
+            "userImg" : "https://www.slavorum.org/wp-content/uploads/2015/08/ukrainians-celebrating-independence-day-kyiv-1.jpg",
+            "content" : "if you need to make it anywhere on time in the city, this scooter is the best! recommended",
+            "rank" : 4,
+            "dateCreated" : "1533465875"
+        }
+    ]
+}
+
+/* 32 */
+{
+    "_id" : ObjectId("5b5c890d6896b0b4bcd5f8a8"),
+    "category" : [ 
+        "kids"
+    ],
+    "title" : "Inflatable Pool",
+    "description" : "Big pool to enjoy the summer with your family anywhere",
+    "ranking" : {
+        "count" : 4,
+        "avg" : 7.5,
+        "totalRank" : 29
+    },
+    "price" : "14",
+    "dateCreated" : 1533633621160.0,
+    "keyWords" : [ 
+        "trip", 
+        "fun", 
+        "family", 
+        "camping", 
+        "summer", 
+        "big"
+    ],
+    "ownerId" : "5b5ae4606896b0b4bcd5f8a0",
+    "occupiedDates" : [ 
+        "2018-08-08", 
+        "2018-07-13", 
+        "2018-07-27", 
+        "2018-08-25", 
+        null
+    ],
+    "images" : [ 
+        "https://p1.akcdn.net/full/392557540.bestway-57313-syros-puhafalu-medence-szett-457x84cm-ffa-153.jpg", 
+        "https://target.scene7.com/is/image/Target/39601589?wid=488&hei=488&fmt=pjpeg", 
+        "https://image.made-in-china.com/2f0j00VmwaAndtKbcA/2HP-Inflatable-China-Swimming-Pool-Filter-and-Pump.jpg"
+    ],
+    "condition" : "new",
+    "reviews" : [ 
+        {
+            "id" : "9072179938",
+            "userId" : "5b5ae4606896b0b4bcd5f8a5",
+            "userName" : "mike",
+            "userImg" : "https://images.pexels.com/photos/846741/pexels-photo-846741.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "content" : "best pool i ever had, we were 8 people and we all got in! very recommended",
+            "rank" : 5,
+            "dateCreated" : "1532861075"
+        }, 
+        {
+            "id" : "7939198827",
+            "userId" : "5b5ae4606896b0b4bcd5f8a1",
+            "userName" : "ben",
+            "userImg" : "https://www.slavorum.org/wp-content/uploads/2015/08/ukrainians-celebrating-independence-day-kyiv-1.jpg",
+            "content" : "if you need a break from hot summer days, take this pool",
+            "rank" : 5,
+            "dateCreated" : "1532083475"
+        }
+    ]
+}
+
+/* 33 */
+{
+    "_id" : ObjectId("5b5ef960948d7a70835a9cf5"),
+    "category" : [ 
+        "transportation"
+    ],
+    "title" : "Big scooter",
+    "description" : "Ride around the city quickly and easilyfun!,Swagtron Swagger Pro Adult Electric Scooter with Extended Range, Lightweight Carbon Fiber Body; Easy Fold-N-Carry Design (Black)",
+    "ranking" : {
+        "count" : 85,
+        "avg" : 4.91764705882353,
+        "totalRank" : 414
+    },
+    "price" : 12,
+    "dateCreated" : 1533633621160.0,
+    "keyWords" : [ 
+        "trip", 
+        "camping", 
+        "transportation", 
+        "big"
+    ],
+    "ownerId" : "5b5ae4606896b0b4bcd5f8a4",
+    "occupiedDates" : [ 
+        "2018-08-28", 
+        null, 
+        null, 
+        null, 
+        null, 
+        null, 
+        null, 
+        null, 
+        null, 
+        "2018-08-16", 
+        "2018-08-17", 
+        "2018-08-15"
+    ],
+    "images" : [ 
+        "https://www.funbikes.co.uk/upload/temp/5b45175e-6b32-47f2-bd60-647eb27288cd_pad_600x600.jpg", 
+        "https://www.funbikes.co.uk/upload/temp/faab7c9e-46e5-4fca-b5fe-9dc541c3eaae_pad_600x600.jpg", 
+        "https://www.funbikes.co.uk/upload/temp/1cdacaff-d239-41b4-ae16-6564b4fe3cee_pad_600x600.jpg"
+    ],
+    "condition" : "new",
+    "reviews" : [ 
+        {
+            "id" : "2083031269",
+            "userId" : "5b6872a37802160014fcbbae",
+            "userName" : "tomer",
+            "userImg" : "http://static-29.sinclairstoryline.com/resources/media/2d9080f1-46ec-47b0-3874-d5190c1b02e7-2d9080f146ec47b03874d5190c1b02e7rendition_1_scottthuman5x7bluegradient.jpg?1519078303490",
+            "content" : "great scooter, lightweight and fast",
+            "rank" : 5,
+            "dateCreated" : "1531478675"
+        }, 
+        {
+            "id" : "8637326834",
+            "userId" : "5b6972b1f9428375d70229a6",
+            "userName" : "bar",
+            "userImg" : "https://www.slavorum.org/wp-content/uploads/2015/08/ukrainians-celebrating-independence-day-kyiv-1.jpg",
+            "content" : "if you need to make it anywhere on time in the city, this scooter is the best! recommended",
+            "rank" : 4,
+            "dateCreated" : "1533465875"
+        }
+    ],
+    "condition" : "new"
+}
+
+/* 34 */
+{
+    "_id" : ObjectId("5b58966eeaa1a9fc0b0a7ca2"),
+    "category" : [ 
+        "travel"
+    ],
+    "title" : "Diving suit",
+    "description" : "Full Body Dive Wetsuit Sports Skins Lycra Rash Guard for Men Women, UV Protection Long Sleeve One Piece Swimwear for Snorkeling Surfing Scuba Diving Swimming Kayaking Sailing Canoeing",
+    "ranking" : {
+        "count" : 4.0,
+        "avg" : 1.45833333333333,
+        "totalRank" : 20
+    },
+    "dateCreated" : 1533633621160.0,
+    "keyWords" : [ 
+        "travel", 
+        "dive", 
+        "suit", 
+        "scuba"
+    ],
+    "price" : 40.0,
+    "ownerId" : "5b5ae4606896b0b4bcd5f8a0",
+    "occupiedDates" : [ 
+        "2018-08-08", 
+        "2018-07-13", 
+        "2018-07-27", 
+        "2018-08-25", 
+        "2018-08-09"
+    ],
+    "images" : [ 
+        "https://images-na.ssl-images-amazon.com/images/I/61MgJslPL7L._SL1001_.jpg"
+    ],
+    "condition" : "new",
+    "reviews" : [ 
+        {
+            "id" : "35524544",
+            "userId" : "5b5ae4606896b0b4bcd5f8a5",
+            "userName" : "mike",
+            "userImg" : "https://images.pexels.com/photos/846741/pexels-photo-846741.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "content" : "great diving suit, had the best time of my life!",
+            "rank" : 5,
+            "dateCreated" : "1521283475"
+        }
+    ]
+}
+
+/* 35 */
+{
+    "_id" : ObjectId("5b6ec92ecbf28474ef2c0309"),
+    "category" : [ 
+        "kids"
+    ],
+    "title" : "Inflatable unicorn",
+    "description" : "Fitting Up To Six People, These Giant Unicorn Floats Are Here To Change Your Summer Parties",
+    "ranking" : {
+        "count" : 78,
+        "avg" : 4.95095238095238,
+        "totalRank" : 380
+    },
+    "price" : 15,
+    "dateCreated" : 1533633621160.0,
+    "keyWords" : [ 
+        "trip", 
+        "camping", 
+        "transportation", 
+        "big"
+    ],
+    "ownerId" : "5b6ec8c5cbf28474ef2bc99b",
+    "occupiedDates" : [ 
+        "2018-08-28", 
+        "2018-08-18", 
+        "2018-08-17"
+    ],
+    "images" : [ 
+        "https://static.boredpanda.com/blog/wp-content/uploads/2018/03/giant-rainbow-unicorn-pool-float-sams-club-5aa655439299c__700.jpg", 
+        "https://static.boredpanda.com/blog/wp-content/uploads/2018/03/giant-rainbow-unicorn-pool-float-sams-club-5-5aa632925bc45__700.jpg", 
+        "https://static.boredpanda.com/blog/wp-content/uploads/2018/03/giant-rainbow-unicorn-pool-float-sams-club-9-5aa632990991c__700.jpg"
+    ],
+    "condition" : "new",
+    "reviews" : [ 
+        {
+            "id" : "2083031269",
+            "userId" : "5b6872a37802160014fcbbae",
+            "userName" : "tomer",
+            "userImg" : "http://static-29.sinclairstoryline.com/resources/media/2d9080f1-46ec-47b0-3874-d5190c1b02e7-2d9080f146ec47b03874d5190c1b02e7rendition_1_scottthuman5x7bluegradient.jpg?1519078303490",
+            "content" : "great scooter, lightweight and fast",
+            "rank" : 5,
+            "dateCreated" : "1531478675"
+        }, 
+        {
+            "id" : "86373331834",
+            "userId" : "5b6972b1f9428375d70229a6",
+            "userName" : "bar",
+            "userImg" : "https://www.slavorum.org/wp-content/uploads/2015/08/ukrainians-celebrating-independence-day-kyiv-1.jpg",
+            "content" : "if you need to make it anywhere on time in the city, this scooter is the best! recommended",
+            "rank" : 4,
+            "dateCreated" : "1533465877"
+        }
+    ],
+    "condition" : "new"
+}
